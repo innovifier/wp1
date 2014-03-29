@@ -1,6 +1,6 @@
 By Chandan 
 
-<<<<<<< HEAD
+
 
 
 
@@ -9,7 +9,7 @@ asfsdhsury3y78462374893285959436-0
 s358943
 =======
 For Vikas Sir TEst
->>>>>>> origin/staging
+
 
 
 asdfasd		    GNU GENERAL PUBLIC LICENSE asd
